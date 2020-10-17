@@ -4,6 +4,7 @@
     width: 35rem;
     border: 0.1rem #aaaaaa solid;
     border-radius: 5px;
+    /* background-image: linear-gradient(to right, yellow, red); */
     position: relative;
 }
 
